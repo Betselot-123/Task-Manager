@@ -9,6 +9,7 @@ A full-stack web application for managing your daily tasks.
 - Tasks persist after page refresh
 - Persistent storage
 - Responsive design
+- Works great on phones
 
 ## Live Demo
 Frontend: https://task-manager-nyc8.onrender.com
@@ -19,3 +20,4 @@ Backend API: https://task-manager-nyc8.onrender.com/api/tasks
 npm install
 
 npm start
+
