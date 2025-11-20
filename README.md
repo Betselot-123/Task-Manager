@@ -1,2 +1,19 @@
-# Task-Manager
-This is a complete, working web application with all three layers. You can add tasks, mark them complete, and they'll persist until you delete them. The database resets when you restart the server, but you can easily change it to a file-based database for permanent storage.
+# Simple Task Manager
+
+A full-stack web application for managing your daily tasks.
+
+## Features
+- Add new tasks
+- Mark tasks as complete/incomplete
+- Delete tasks
+- Persistent storage
+- Responsive design
+
+## Live Demo
+Frontend: [Your deployed frontend URL]
+Backend API: [Your deployed backend URL]
+
+## Local Development
+```bash
+npm install
+npm start
